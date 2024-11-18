@@ -2,5 +2,5 @@
 
 dépot pour les cartes VF
 
-*en phase de test*
+__en phase de test__
 
