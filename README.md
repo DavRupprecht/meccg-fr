@@ -11,7 +11,7 @@ __en phase de relecture__
 __dernières mise-à-jour__
 
 * 28.02.25 : Correction du texte sur 'Trouvaille'
-* 28.02.25 : retrait de l'icône 'œil de Sauron' sur les objets à 0 points de corruption (5 objets)
+* 28.02.25 : retrait de l'icône 'œil de Sauron' sur les objets à 0 points de corruption (5 objets : breuvage d'Ents, heaume de la peur, fiole de Galadriel qui était à 0 dans la carte officielle, langue de feu perçante et fouet à multiples lanières)
 * 28.02.25 : ajouts des PC manquants sur Anneau d'étranglement/lame dentelée
 * 28.02.25 : correction des noms des dessinateurs sur les cartes alternatives
 * 28.02.25 : petite retouche sur les dessins Moria/Salle du jaillissement
