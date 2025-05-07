@@ -10,6 +10,7 @@ __en phase de relecture__
 
 __dernières mise-à-jour__
 
+* 07.05.25 : modifications mineures (Montagnes Brumeuses (TW), Plateau (TW))
 * 25.04.25 : modifications mineures (Île des morts qui vivent TW/LE, Dernière engeance d'Ungoliant DM, Hommes des Bois LE)
 * 28.02.25 : ajout d'un dossier avec des 'maps' VF
 * 28.02.25 : Correction du texte sur 'Trouvaille'
