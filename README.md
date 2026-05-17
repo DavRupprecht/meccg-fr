@@ -10,7 +10,7 @@ __en phase de relecture__
 
 __dernières mise-à-jour__
 
-* 17.05.26 : modififactions mineurs (Traînée de pale luminosité (DM), Charmes des Êtres des Galgals (DM), Ombre venue des ténèbres (DM), Au-dessus des abysses (AS), Dame de la forêt d'Or (AS), Palantír d'Elostirion (TW et LE), Radagast (TW))
+* 17.05.26 : modififactions mineurs (Traînée de pale luminosité (DM), Charmes des Êtres des Galgals (DM), Ombre venue des ténèbres (DM), Au-dessus des abysses (AS), Dame de la forêt d'Or (AS), Palantír d'Elostirion (TW et LE), Radagast (TW), Círdan (TW))
 * 27.05.05 : modifications mineures (Épée vaillante (TD), Coupe-Jarret (TW))
 * 07.05.25 : modifications mineures (Montagnes Brumeuses (TW), Plateau (TW))
 * 25.04.25 : modifications mineures (Île des morts qui vivent TW/LE, Dernière engeance d'Ungoliant DM, Hommes des Bois LE)
